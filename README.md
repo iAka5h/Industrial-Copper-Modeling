@@ -28,8 +28,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Industrial-Copper-Modeling
-    cd Industrial-Copper-Modeling
+    https://github.com/iAka5h/Industrial-Copper-Modeling.git
     ```
 
 2. Install required packages:
